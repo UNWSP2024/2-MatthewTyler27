@@ -1,4 +1,5 @@
-
+#Average Age
+#Matthew Tyler 09/12
 def average_age():
     # Get User Input for all friends' ages
     Age1 = int(input("Enter age of friend 1"))
