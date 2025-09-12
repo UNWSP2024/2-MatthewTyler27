@@ -11,7 +11,7 @@ def temp_conversion(celsius):
     ######################
     # WRITE YOUR CODE HERE
     ######################    
-
+    celsius = input('whats the temperature in celsius')
 
     # Return the variable to the calling function
     return fahrenheit
